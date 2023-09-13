@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Soumik Mallick</h1>
 <h3 align="center">Data Enthusiast Exploring the World of Generative AI</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik0811&label=Profile%20views&color=0e75b6&style=flat" alt="soumik0811" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
