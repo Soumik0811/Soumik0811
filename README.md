@@ -1,4 +1,5 @@
 ![Header](./github-image.png)
+### Profile Views
 ![](https://komarev.com/ghpvc/?username=soumik0811&label=Profile%20views&color=0e75b6&style=flat)
 # 💫 About Me:
 🔭 I’m currently working on AI Projects<br>👯 I’m looking to collaborate on Machine learning projects<br>🌱 I’m currently learning Langchain, Pinecone, Deep Learning<br>💬 Ask me about Machine Learning , Data Analysis , Generative AI<br>⚡ Fun fact I love exploring AI Tools
