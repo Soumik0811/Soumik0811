@@ -31,7 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumik0811&show_icons=true&locale=en" alt="soumik0811" /></p>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Soumik0811&theme=dark" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumik0811&" alt="soumik0811" /></p>
     <img src="https://streak-stats.demolab.com?user=Soumik0811&theme=default" />
-</picture>
