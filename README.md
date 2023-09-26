@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumik0811&show_icons=true&locale=en" alt="soumik0811" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumik0811)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soumik0811&theme=dark)](https://git.io/streak-stats)
