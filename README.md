@@ -1,6 +1,6 @@
 ![Header](./github-image.png)
 # 💫 About Me:
-🔭 I’m currently working on AI Projects<br>👯 I’m looking to collaborate on Machine learning projects<br>🌱 I’m currently learning Langchain, Pinecone, Deep Learning<br>💬 Ask me about Machine Learning , Data Analysis , Generative AI<br>⚡ Fun fact I love exploring AI Tools
+🔭 I’m currently working on AI Projects<br>👯 I’m looking to collaborate on Machine learning projects<br>🌱 I’m currently learning Langchain, Pinecone, Deep Learning<br>💬 Ask me about Machine Learning , Data Analysis , Generative AI<br>⚡ I love exploring AI Tools
 
 
 ## 🌐 Socials:
