@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI Projects<br>👯 I’m looking to collaborate on Machine learning projects<br>🌱 I’m currently learning Langchain, Pinecone, Deep Learning<br>💬 Ask me about Machine Learning , Data Analysis , Generative AI<br>⚡ Fun fact I love exploring AI Tools
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik0811&label=Profile%20views&color=0e75b6&style=flat" alt="soumik0811" /> </p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Soumik#6597) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik8112) 
 
