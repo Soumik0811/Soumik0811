@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Soumik0811&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumik0811&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumik0811&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=Soumik0811)](https://holopin.io/@Soumik0811)
+[![An image of @soumik0811's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumik0811)](https://holopin.io/@soumik0811)
 
 
 ### ✍️ Random Dev Quote
